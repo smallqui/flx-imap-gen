@@ -1,5 +1,7 @@
 # flx-imap-gen
 
+**Disclaimer: This code is PURELY for educational purposes, and is not to be used to break the TOS of Footlocker.**
+
 Open source Footlocker FLX account generator that verifies your emails via imap (gmail only)
 
 Proxies are required
