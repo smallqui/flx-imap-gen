@@ -1,0 +1,10 @@
+{
+    "taskAmount": 1,
+    "webhook": "discordwebhook",
+    "gmail": {
+        "email": "yourgmail", 
+        "password": "yourpassword"
+    },
+    "catchall": "catchall.com",
+    "logProxy": true
+}
